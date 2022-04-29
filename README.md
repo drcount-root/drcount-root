@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### 
+<div align="center">
+  <h1>🎉 Welcome! 🎉</h1>
+  <div>    
+    <img  alt="drcount-root's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/drcount-root?cardType=github&theme=chartreuse-dark" />  
+  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=drcount-root&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D">
+</div>
 <!--
 **drcount-root/drcount-root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
