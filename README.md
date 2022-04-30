@@ -22,11 +22,11 @@
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/drcount-root?cardType=github&theme=chartreuse-dark" alt="drcount-root's GitHub Stats"/>  
   </div>
   <hr>
-  <div align="center">
+<!--   <div align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=drcount-root&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="drcount-root's GitHub Streak-stats"/>
-  </div>
+  </div> -->
   
-  <hr>
+<!--   <hr> -->
   
   <!--  Most Used Languages  -->
   <div align="center">
