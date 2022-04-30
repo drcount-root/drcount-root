@@ -32,6 +32,13 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&layout=compact&theme=vision-friendly-dark"/>
   </div>
+  
+  <hr>
+  
+  <!--  codewars.com profile  -->
+  <div align="center">
+    <img align="center" src="https://www.codewars.com/users/drcount-root/badges/large"/>
+  </div>
 </div>
 
 
