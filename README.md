@@ -70,7 +70,7 @@
 
 <div align="center">
   <a href="https://github.com/drcount-root">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drcount-root&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Subham's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drcount-root&show_icons=true&line_height=27&count_private=true&title_color=d8ff00&text_color=00b6da&icon_color=d8ff00&bg_color=000000" alt="Subham's GitHub Stats" />
   </a>
 </div>
 
