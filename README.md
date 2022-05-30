@@ -94,4 +94,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/drcount-root/drcount-root/blob/output/github-contribution-grid-snake.gif)
