@@ -1,4 +1,5 @@
-### 
+###
+
 <div align="center">
   <h1>🎉 Welcome! 🎉</h1>
   <div id="header" align="center">
@@ -8,7 +9,7 @@
   <h1 align="center">Hi 👋, I'm Subham</h1>
 <h3 align="center">A passionate full stack developer & cyber security analyst</h3>
 
- 🍃 I’m currently learning **Full Stack MERN Development** 🍃
+🍃 I’m currently learning **Full Stack MERN Development** 🍃
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
@@ -62,7 +63,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&layout=compact&theme=vision-friendly-dark"/>
   </div>
 
-  
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=drcount-root&show_icons=true"/> -->
 
 <hr>
@@ -94,3 +94,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
