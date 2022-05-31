@@ -35,7 +35,7 @@
 
   <!--  Most Used Languages  -->
   <div align="center">
-    <a href="https://github.com/drcount-root/github-readme-stats"><img alt="Subham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&langs_count=8&count_private=true&layout=compact&title_color=d8ff00&text_color=00b6da&icon_color=d8ff00&bg_color=000000&hide_border=true"/></a>
+   <img alt="Subham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&langs_count=8&count_private=true&layout=compact&title_color=d8ff00&text_color=00b6da&icon_color=d8ff00&bg_color=000000&hide_border=true"/>
   </div>
   
   <hr>
