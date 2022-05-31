@@ -61,7 +61,7 @@
 
   <hr>
   
-  ![snake gif](https://github.com/drcount-root/drcount-root/blob/output/github-contribution-grid-snake.gif)
+ 
 
 </div>
 
