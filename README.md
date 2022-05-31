@@ -38,6 +38,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
   </div>
 
+  <!--  Most used  -->
+  <div align="center">
+    <a href="https://github.com/drcount-root/github-readme-stats"><img alt="Subham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </div>
+  
   <hr>
 
   <!-- Streak -->
