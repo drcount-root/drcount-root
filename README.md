@@ -61,7 +61,7 @@
 
   <hr>
   
- 
+  ![Snake animation](https://github.com/drcount-root/drcount-root/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
