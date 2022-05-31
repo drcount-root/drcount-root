@@ -54,6 +54,7 @@
 
   <hr>
   
+  <!--  Commit Graph  -->
   <div align="center">
     <img alt="Subham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=drcount-root&bg_color=000000&color=ffa500&line=00b6da&point=9ACD32&hide_border=true" />
   </div>
