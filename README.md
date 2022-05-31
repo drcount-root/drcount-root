@@ -51,7 +51,24 @@
   <div align="center">
     <img align="center" src="https://www.codewars.com/users/drcount-root/badges/large"/>
   </div>
+
+  <hr>
+  
+  <div align="center">
+    <img alt="Subham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=drcount-root&bg_color=000000&color=ffa500&line=00b6da&point=9ACD32&hide_border=true" />
+  </div>
+
+
 </div>
+
+
+
+
+
+
+
+
+
 
 <!--
 **drcount-root/drcount-root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
