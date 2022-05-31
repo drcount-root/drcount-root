@@ -33,14 +33,9 @@
   
   <hr>
 
-  <!--    Most Used Languages  -->
+  <!--  Most Used Languages  -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-  </div>
-
-  <!--  Most used  -->
-  <div align="center">
-    <a href="https://github.com/drcount-root/github-readme-stats"><img alt="Subham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/drcount-root/github-readme-stats"><img alt="Subham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&langs_count=8&count_private=true&layout=compact&title_color=d8ff00&text_color=ffa500&icon_color=d8ff00&bg_color=000000&hide_border=true"/></a>
   </div>
   
   <hr>
