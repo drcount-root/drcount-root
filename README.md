@@ -25,53 +25,27 @@
 <hr>
   
   
-  
-<!--  Social Medias  -->
-<!--   <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <div align="center">
+    <a href="https://github.com/drcount-root">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=drcount-root&show_icons=true&line_height=27&count_private=true&title_color=d8ff00&text_color=00b6da&icon_color=d8ff00&bg_color=000000&hide_border=true" alt="Subham's GitHub Stats" />
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div> -->
-    
-<!--  Stats Area  -->
-<!--   <div align="center">     -->
-<!--     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/drcount-root?cardType=github&theme=chartreuse-dark" alt="drcount-root's GitHub Stats"/>   -->
-<!--   </div> -->
-<!--   <hr> -->
-<!--   <div align="center"> -->
-<!--     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=drcount-root&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" alt="drcount-root's GitHub Streak-stats"/> -->
-<!--   </div> -->
+  </div>
   
   <hr>
-  
-<div align="center">
-  <a href="https://github.com/drcount-root">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drcount-root&show_icons=true&line_height=27&count_private=true&title_color=d8ff00&text_color=00b6da&icon_color=d8ff00&bg_color=000000" alt="Subham's GitHub Stats" />
-  </a>
-</div>
-  
-<hr>
 
-<!--    Most Used Languages  -->
+  <!--    Most Used Languages  -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&layout=compact&theme=vision-friendly-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
   </div>
 
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=drcount-root&show_icons=true"/> -->
+  <hr>
 
-<hr>
-
-<div align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drcount-root"/>
-</div>
+  <!-- Streak -->
+  <div align = "center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=drcount-root&theme=highcontrast&hide_border=true"/>
+  </div>
   
-<hr>
+  <hr>
   
   <!--  codewars.com profile  -->
   <div align="center">
