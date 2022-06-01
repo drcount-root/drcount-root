@@ -63,12 +63,12 @@
   
 
   <!--  codewars.com profile  -->
-
+<!-- 
   <div align="center">
     <img align="center" src="https://www.codewars.com/users/drcount-root/badges/large"/>
   </div>
 
-  <hr>
+  <hr> -->
   
   
   <!--  The Rainbow Stats Bar  -->
