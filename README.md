@@ -89,6 +89,13 @@
     <img src = "https://komarev.com/ghpvc/?username=drcount-root&color=blueviolet&style=flat" />
   </div>
 
+  
+  <!--  The footer  -->
+  
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=100%/>
+  </p>
+  
 </div>
 
 
