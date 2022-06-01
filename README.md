@@ -71,9 +71,19 @@
 
   <hr>
   
-  ![Snake animation](https://github.com/drcount-root/drcount-root/blob/output/github-contribution-grid-snake.svg)
+  
+  <!--  The contribution snake  -->
+  
+  <!--   ![Snake animation](https://github.com/drcount-root/drcount-root/blob/output/github-contribution-grid-snake.svg) -->
+  
+  <div align = "center">
+    <img src = "https://github.com/drcount-root/drcount-root/blob/output/github-contribution-grid-snake.svg" width = 100%/>
+  </div>
   
   <hr>
+  
+  
+  <!--  Profile views  -->
   
   <div align="center">
     <img src = "https://komarev.com/ghpvc/?username=drcount-root&color=blueviolet&style=flat" />
