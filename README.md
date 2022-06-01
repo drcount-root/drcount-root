@@ -1,5 +1,13 @@
 ###
 
+<!-- Header Start -->
+
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width=100%/>
+</p>
+
+<!-- Header End -->
+
 <div align="center">
   <h1>🎉 Welcome! 🎉</h1>
   <div id="header" align="center">
@@ -62,7 +70,13 @@
 
   <hr>
   
+  
+  <!--  The Rainbow Stats Bar  -->
 
+  <div align="center">
+    <img src="https://github.com/drcount-root/drcount-root/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  </div>
+  
   <!--  Commit Graph  -->
 
   <div align="center">
