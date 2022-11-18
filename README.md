@@ -11,10 +11,11 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 <div align="center">
-  <h1>🎉 Welcome! 🎉</h1>
+  <!-- <h1>🎉 Welcome! 🎉</h1> 
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
   </div>
+  -->
   
   <h1 align="center">Hi 👋, I'm Subham</h1>
   <h3 align="center">A passionate full stack developer & cyber security analyst</h3>
