@@ -2,9 +2,9 @@
 
 <!-- Header Start -->
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width=100%/>
-</p>
+</p> -->
 
 <!-- Header End -->
 
@@ -108,9 +108,11 @@
   
   <!--  The footer  -->
   
-  <p align="center">
+<!--   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=100%/>
-  </p>
+  </p> -->
+    
+    <img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png"/>
   
 </div>
 
