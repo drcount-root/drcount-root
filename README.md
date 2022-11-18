@@ -8,6 +8,8 @@
 
 <!-- Header End -->
 
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+
 <div align="center">
   <h1>🎉 Welcome! 🎉</h1>
   <div id="header" align="center">
