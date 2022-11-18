@@ -8,7 +8,7 @@
 
 <!-- Header End -->
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+<img src="./assets/header.png"/>
 
 <div align="center">
   <!-- <h1>🎉 Welcome! 🎉</h1> 
@@ -115,7 +115,7 @@
   
 </div>
 
-<img src="https://raw.githubusercontent.com/Subhampreet/Subhampreet/master/media/footer.png"/>
+<img src="./assets/footer.png"/>
 
 
 
