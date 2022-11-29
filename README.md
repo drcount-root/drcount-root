@@ -18,7 +18,7 @@
   -->
   
   <h1 align="center">Hi 👋, I'm Subham</h1>
-  <h3 align="center">A passionate full stack developer & cyber security analyst</h3>
+  <h3 align="center">A passionate front end developer & cyber security analyst</h3>
 
   🍃 I’m currently learning **Full Stack MERN Development** 🍃
 
