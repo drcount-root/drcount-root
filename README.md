@@ -17,8 +17,8 @@
   </div>
   -->
   
-  <h1 align="center">Hi 👋, I'm Subham</h1>
-  <h3 align="center">A passionate front end developer & cyber security analyst</h3>
+  <h1 align="center">Hi 👋</h1>
+  <h3 align="center">I am a passionate front end developer & cyber security analyst by hobby</h3>
 
   🍃 I’m currently learning **Full Stack MERN Development** 🍃
 
@@ -38,8 +38,8 @@
     
 <div align="center">
 
-## Tech Stack 💻
-    
+## Tech Stack
+
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
@@ -101,7 +101,7 @@
     
 </div>
 
-    
+<hr>
     
   <!--  Stats  -->
 
