@@ -81,10 +81,13 @@
   </div>
   
   <!--  Commit Graph  -->
-
+  <!--
   <div align="center">
     <img alt="Subham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=drcount-root&bg_color=000000&color=ffa500&line=00b6da&point=9ACD32&hide_border=true" />
   </div>
+  -->
+  
+  [![Subham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=drcount-root&bg_color=040404&color=0ac0e0&line=ffffff&point=b4f123&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <hr>
   
