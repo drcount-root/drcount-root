@@ -1,40 +1,15 @@
 ###
-
-<!-- Header Start -->
-
-<!-- <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width=100%/>
-</p> -->
-
-<!-- Header End -->
  
 <img src="./assets/header.png"/>
 
 <div align="center">
-  <!-- <h1>🎉 Welcome! 🎉</h1> 
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
-  </div>
-  -->
   
   <h1 align="center">Hi 👋</h1>
   <h3 align="center">I am a passionate front end developer & cyber security analyst by hobby</h3>
 
-  🍃 I’m currently learning **Full Stack MERN Development** 🍃
+  <h4 align="center">🍃 I’m currently learning Full Stack MERN Development 🍃</h4>
 
-<!--
-<p align="left">
-</p>
-<hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://www.netlify.com" target="_blank" rel="noreferrer"> <img src="https://www.netlify.com/v3/img/components/logomark.svg" alt="netlify" width="40" height="40">  
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
--->  
-<hr>
+  <hr>
     
 <div align="center">
 
@@ -131,15 +106,6 @@
   
   <hr>
   
-
-  <!--  codewars.com profile  -->
-<!-- 
-  <div align="center">
-    <img align="center" src="https://www.codewars.com/users/drcount-root/badges/large"/>
-  </div>
-
-  <hr> -->
-  
   
   <!--  The Rainbow Stats Bar  -->
 
@@ -148,11 +114,6 @@
   </div>
   
   <!--  Commit Graph  -->
-  <!--
-  <div align="center">
-    <img alt="Subham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=drcount-root&bg_color=000000&color=ffa500&line=00b6da&point=9ACD32&hide_border=true" />
-  </div>
-  -->
   
   [![Subham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=drcount-root&bg_color=040404&color=0ac0e0&line=ffffff&point=b4f123&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -178,10 +139,6 @@
 
   
   <!--  The footer  -->
-  
-<!--   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width=100%/>
-  </p> -->
   
 </div>
 
