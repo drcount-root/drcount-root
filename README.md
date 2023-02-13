@@ -23,12 +23,15 @@
 
 #### JS Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-ReduxJS-000?style=for-the-badge&logo=redux)
+![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-000?style=for-the-badge&logo=reduxsaga)
 
 #### CSS Framework/Library/Pre-processors
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?style=for-the-badge&logo=styledcomponents)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
     
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
