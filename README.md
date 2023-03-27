@@ -25,7 +25,8 @@
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-ReduxJS-000?style=for-the-badge&logo=redux)
 ![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-000?style=for-the-badge&logo=reduxsaga)
-
+![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
+ 
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
