@@ -16,12 +16,14 @@
 ## Tech Stack
 
 #### Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 
 #### JS Framework/Library
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-ReduxJS-000?style=for-the-badge&logo=redux)
 ![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-000?style=for-the-badge&logo=reduxsaga)
