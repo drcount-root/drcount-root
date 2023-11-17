@@ -7,7 +7,7 @@
   <h1 align="center">Hi 👋</h1>
   <h3 align="center">I am a passionate front end developer & cyber security analyst by hobby</h3>
 
-  <h4 align="center">🍃 I’m currently learning Full Stack MERN Development 🍃</h4>
+  <h4 align="center">🍃 I’m currently learning Rust 🍃</h4>
 
   <hr>
     
