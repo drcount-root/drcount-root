@@ -35,6 +35,8 @@
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?style=for-the-badge&logo=styledcomponents)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
+![Framer](https://img.shields.io/badge/-Framer%20Motion-000?style=for-the-badge&logo=framer)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?style=for-the-badge&logo=antdesign)
     
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
@@ -66,7 +68,6 @@
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 
 #### Package Manager
-![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
 
@@ -79,6 +80,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=AWS)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
+
+#### Other Tools
+![Turborepo](https://img.shields.io/badge/-Turborepo-000?style=for-the-badge&logo=turborepo)
+![Vite](https://img.shields.io/badge/-Vite-000?style=for-the-badge&logo=vite)
+![Webpack](https://img.shields.io/badge/-Webpack-000?style=for-the-badge&logo=webpack)
+![Zod](https://img.shields.io/badge/-Zod-000?style=for-the-badge&logo=zod)
     
 </div>
 
