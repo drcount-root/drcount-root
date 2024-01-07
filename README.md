@@ -5,7 +5,7 @@
 <div align="center">
   
   <h1 align="center">Hi 👋</h1>
-  <h3 align="center">I am a passionate front end developer</h3>
+  <h3 align="center">I am a passionate front end developer & I understand how backend system works</h3>
 
   <!-- <h4 align="center">🍃 I’m currently learning Rust :crab:🍃</h4> -->
 
