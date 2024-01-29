@@ -87,6 +87,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-000?style=for-the-badge&logo=webpack)
 ![Zod](https://img.shields.io/badge/-Zod-000?style=for-the-badge&logo=zod)
 ![JWT](https://img.shields.io/badge/-jwt-000?style=for-the-badge&logo=jwt)
+![Razorpay](https://img.shields.io/badge/-razorpay-000?style=for-the-badge&logo=razorpay)
     
 </div>
 
