@@ -130,9 +130,16 @@
   </div>
   
   <!--  Commit Graph  -->
-  
-  [![Subham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=drcount-root&bg_color=040404&color=0ac0e0&line=ffffff&point=b4f123&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+  <!--
+  [![Subham's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=drcount-root&bg_color=040404&color=0ac0e0&line=ffffff&point=b4f123&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  -->
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drcount-root&theme=github_dark" /><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drcount-root&theme=github_dark"/>
+
+[![Subham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=drcount-root&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
   <hr>
   
   
@@ -159,7 +166,6 @@
 </div>
 
 <img src="./assets/footer.png"/>
-
 
 
 
