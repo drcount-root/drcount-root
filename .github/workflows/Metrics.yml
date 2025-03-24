@@ -14,44 +14,39 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: drcount-root
           config_timezone: Asia/Kolkata
-          #          config_display: columns  # display information in columns
           committer_message: "chore: update metrics"
           template: classic
-          base: header, activity, community, repositories, metadata # base content (user information)
-          plugin_introduction: yes # general account information
-          #          plugin_sponsors: yes
+          base: header, activity, community, repositories, metadata
 
-          plugin_isocalendar: yes # 3D isometric calendar
-          plugin_isocalendar_duration: full-year # displays activity for the full year
+          plugin_calendar: yes # Enables the contributions calendar
+          plugin_calendar_limit: 3 # Limits it to the last 3 years (2022, 2023, 2024)
 
-          plugin_languages: yes # display programming languages used
-          plugin_languages_details: bytes-size, percentage # additional code information: size and percentage
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Shows full-year activity for the latest year only (2024)
+
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
 
           plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: X
 
-          plugin_achievements_threshold: X # shows achievement badges not yet unlocked
-          plugin_achievements_display: detailed # detailed description of achievement badges
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
 
-          plugin_calendar: yes # displays activity by years, starting from the current year onward
-          plugin_calendar_limit: 11 # shows activity for this many years
+          plugin_licenses: yes
+          plugin_licenses_setup: npm ci
 
-          plugin_habits: yes # daily and weekly activity
-          plugin_habits_facts: yes # displays analysis of weekly activity
-          plugin_habits_charts: yes # displays characteristics
+          plugin_skyline: yes
+          plugin_skyline_year: 2022 # Displays skyline from 2022 onward
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
 
-          plugin_licenses: yes # license information
-          plugin_licenses_setup: npm ci # detailed information about licenses used
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: chartist
 
-          plugin_skyline: yes # 3D skyline activity plugin
-          plugin_skyline_year: 2022 # for which year
-          plugin_skyline_frames: 120 # number of frames
-          plugin_skyline_quality: 1 # quality level 1 - best
-
-          plugin_stargazers: yes # monthly activity
-          plugin_stargazers_charts_type: chartist # activity type - smooth lines
-
-          plugin_support: yes # support plugin
-
-          plugin_topics: yes # plugin for used topics
+          plugin_support: yes
+          plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
