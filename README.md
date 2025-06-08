@@ -45,9 +45,8 @@
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
 #### Database/State
+![Postgres](https://img.shields.io/badge/-Postgres-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase)
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
