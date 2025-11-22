@@ -30,6 +30,8 @@
 ![Redux Saga](https://img.shields.io/badge/-Redux%20Saga-000?style=for-the-badge&logo=reduxsaga)
 ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
 ![NextAuthJS](https://img.shields.io/badge/nextauthjs-000000?style=for-the-badge&logo=nextauthdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
  
 #### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-000?style=for-the-badge&logo=tailwind-css)
