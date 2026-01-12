@@ -100,6 +100,7 @@
     
   <!--  Stats  -->
 
+ <!--
   <div align="center">
     <a href="https://github.com/drcount-root">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=drcount-root&show_icons=true&line_height=27&count_private=true&title_color=d8ff00&text_color=00b6da&icon_color=d8ff00&bg_color=000000&hide_border=true" alt="Subham's GitHub Stats" />
@@ -107,24 +108,34 @@
   </div>
   
   <hr>
+-->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drcount-root&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drcount-root&theme=dark)
+  
 
 
   <!--  Most Used Languages  -->
 
+<!--
   <div align="center">
    <img alt="Subham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drcount-root&langs_count=8&count_private=true&layout=compact&title_color=d8ff00&text_color=00b6da&icon_color=d8ff00&bg_color=000000&hide_border=true"/>
   </div>
   
   <hr>
+  -->
 
 
   <!-- Streak -->
 
+<!--
   <div align = "center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=drcount-root&theme=highcontrast&hide_border=true"/>
   </div>
   
   <hr>
+
+  -->
   
   
   <!--  The Rainbow Stats Bar  -->
