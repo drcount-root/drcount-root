@@ -59,6 +59,7 @@
     
 #### API Testing Tools
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
+![Hoppscotch](https://img.shields.io/badge/-hoppscotch-000?style=for-the-badge&logo=hoppscotch)
 ![ThunderClient](https://img.shields.io/badge/-ThunderClient-000?style=for-the-badge&logo=thunderclient)
 
 #### Web Hosting
