@@ -56,6 +56,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi)
+![Serverless Lambda](https://img.shields.io/badge/-AWS%20Lambda-000?style=for-the-badge&logo=awslambda)
     
 #### API Testing Tools
 ![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
